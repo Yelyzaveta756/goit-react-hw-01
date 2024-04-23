@@ -26,3 +26,7 @@ margin-top: 20px;
     border-radius: 10px;
     text-align: center;
 }
+
+.friendItem:hover {
+  background-color:rgba(213, 244, 87, 0.364);
+}
